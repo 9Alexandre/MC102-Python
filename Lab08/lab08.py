@@ -90,22 +90,3 @@ for i in range(0, len(prefixos)):
             if lista_alfabetica[j][0:tam] == prefixos[i] and lista_alfabetica[j] != prefixos[i]:
                 print(" ", lista_alfabetica[j], sep='', end='')
     print()
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-    '''
-    '''
